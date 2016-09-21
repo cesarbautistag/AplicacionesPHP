@@ -1,6 +1,7 @@
 <?php
 
-echo "practica" ;
+$nombre="Cesar";
+echo "practica". $nombre;
 
 
 ?>
