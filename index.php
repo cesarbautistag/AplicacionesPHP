@@ -1,7 +1,7 @@
 <?php
 
 $nombre="Cesar";
-echo "practica". $nombre;
+echo "version2". $nombre;
 
 
 ?>
